@@ -1,27 +1,3 @@
-//****************************************************************************************************
-//
-//              File:                                   TipTaxTotalController.java
-//		
-//              Student:                                Kyle McColgan
-//
-//              Assignment:                             Program  # 10
-//
-//              Course Name:                            Java programming I
-// 
-//              Course Number:                          COSC 2050 - 01
-//
-//              Due:                                    April 15th, 2020
-//
-//
-//              This file contains the GUI function definitions.
-//
-//              Other files required:
-//                      1. TipTaxTotalApp.java - Application driver class.
-//                      2. FXMLDocument.fxml - Required file to build the JavaFX GUI project
-//                      3. Validator.java - User-input validator utility class.
-//		 
-//		
-//****************************************************************************************************
 
 import java.net.URL;
 import java.util.ResourceBundle;
