@@ -1,24 +1,3 @@
-//****************************************************************************************************
-//
-//              File:                                   GroceryList.java
-//		
-//              Student:                                Kyle McColgan
-//
-//              Assignment:                             Program  # 11
-//
-//              Course Name:                            Java programming I
-// 
-//              Course Number:                          COSC 2050 - 01
-//
-//              Due:                                    April 24th, 2020
-//
-//
-//              This file contains the GroceryList GUI application program.
-//
-//
-//		 		
-//****************************************************************************************************
-
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 
