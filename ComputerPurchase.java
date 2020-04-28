@@ -1,27 +1,6 @@
-//****************************************************************************************************
-//
-//              File:                                   ComputerPurchase.java
-//		
-//              Student:                                Kyle McColgan
-//
-//              Assignment:                             Program  # 12
-//
-//              Course Name:                            Java programming I
-// 
-//              Course Number:                          COSC 2050 - 01
-//
-//              Due:                                    April 29th, 2020
-//
-//
-//              This file contains the ComputerPurchase Java swing GUI application.
-//
-//              Other files required:
-//                      1. ComputerPurchase.form - required Java fxml file.
-//
-//		 
-//		
-//****************************************************************************************************
-
+//Kyle McColgan
+//28 April 2020
+//ComputerPurchase.java
 
 import java.text.NumberFormat;
 import javax.swing.JOptionPane;
