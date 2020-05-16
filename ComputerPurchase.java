@@ -1,6 +1,6 @@
-//Kyle McColgan
-//28 April 2020
+//28-April-2020
 //ComputerPurchase.java
+//Simple computer purchase GUI using Java Swing library.
 
 import java.text.NumberFormat;
 import javax.swing.JOptionPane;
