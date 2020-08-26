@@ -1,3 +1,5 @@
+//Java implementation of Heap's recursive permutation algorithim.
+//26 August 2020
 
 public class Permutations
 {
